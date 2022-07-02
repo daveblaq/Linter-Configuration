@@ -11,13 +11,6 @@
 *Clone Your Github Repository*
 
 - $ git clone https://github.com/daveblaq/linter-configuration
-Cloning into Git …
-remote: Counting objects: 13, done.
-remote: Compressing objects: 100% (13/13), done.
-remove: Total 13 (delta 1), reused 0 (delta 1)
-Unpacking objects: 100% (13/13), done.
-
-* Congratulations, you have created your first local clone from your remote Github repository. *
 
 ## To get a local copy up and running follow these simple example steps.
 
